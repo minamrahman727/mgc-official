@@ -22,7 +22,7 @@ export default function Home() {
         height={700} // Set the desired height
       />
      </div>
-    <div className=" flex justify-center">
+    <div className=" flex justify-evenly">
       <div>
       <a href="https://www.youtube.com/@minam2.0/"><button className=" bg-red-600  font-sans text-white rounded-3xl">subscribe me</button></a>
         </div>
