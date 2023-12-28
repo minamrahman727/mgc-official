@@ -11,8 +11,8 @@ export default function Home() {
         height={200} // Set the desired height
       /> <h1 className=" font-serif text-4xl text-blue-600 bg-gray-200 border border-blue-300 rounded-xl">Minam Group of Companies</h1>
     </div>
-     <div>
-     <h1 className="font-mono text-xl text-red-600">site under construction</h1></div>
+     <div className="flex justify-center">
+     <h1 className="font-mono text-6xl text-red-600">site under construction</h1></div>
      </div>
   )
 }
