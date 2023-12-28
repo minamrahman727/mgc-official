@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import ExternalLinkButton from '../components/ExternalLinkButton';
 
 export default function Home() {
   return (
@@ -20,14 +21,9 @@ export default function Home() {
         height={700} // Set the desired height
       />
      </div>
-     <div><a href={www.youtube.com/@minam2.0} target="_blank" rel="noopener noreferrer">
-        subscribe to my channel
-      </a>
-    <div><a href={www.instagram.com/minam_78pak/} target="_blank" rel="noopener noreferrer">
-        follow on instagram
-      </a>
-   
-   </div>
+    <div>
+      <ExternalLinkButton />
+    </div>
      </div>
   )
 }
