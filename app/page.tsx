@@ -23,7 +23,7 @@ export default function Home() {
       />
      </div>
     <div className=" flex justify-center font-sans text-md border border-red-400">
-      <div ">
+      <div>
       <a href="https://www.youtube.com/@minam2.0/">subscribe me</a>
         </div>
       <div>
