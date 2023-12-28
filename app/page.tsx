@@ -18,8 +18,8 @@ export default function Home() {
       <Image
         src="pic.png" // Path to your image from the public folder
         alt="Description of your image"
-        width={700} // Set the desired width
-        height={700} // Set the desired height
+        width={500} // Set the desired width
+        height={500} // Set the desired height
       />
      </div>
     <div className=" flex justify-evenly">
