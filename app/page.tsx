@@ -20,6 +20,14 @@ export default function Home() {
         height={700} // Set the desired height
       />
      </div>
+     <div><a href={www.youtube.com/@minam2.0} target="_blank" rel="noopener noreferrer">
+        <button>subscribe to my channel</button>
+      </a>
+    <div><a href={www.instagram.com/minam_78pak/} target="_blank" rel="noopener noreferrer">
+        <button>follow on instagram</button>
+      </a>
+   
+   </div>
      </div>
   )
 }
