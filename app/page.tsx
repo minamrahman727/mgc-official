@@ -22,8 +22,9 @@ export default function Home() {
         height={700} // Set the desired height
       />
      </div>
-    <div>
-      <ExternalLinkButton/>
+    <div className="font-sans text-md border border-red-400">
+      <a href="https://www.youtube.com/@minam2.0/">subscribe me</a>
+      <a href="https://www.instagram.com/minam_78pak/">follow me</a>
     </div>
      </div>
   )
