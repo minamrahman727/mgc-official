@@ -24,10 +24,10 @@ export default function Home() {
      </div>
     <div className=" flex justify-evenly">
       <div>
-      <a href="https://www.youtube.com/@minam2.0/"><button className=" bg-red-600  font-sans text-white rounded-3xl">subscribe me</button></a>
+      <a href="https://www.youtube.com/@minam2.0/"><button className=" bg-red-600  font-serif text-black text-xl rounded-3xl">subscribe me</button></a>
         </div>
       <div>
-      <a href="https://www.instagram.com/minam_78pak/"><button className="bg-pink-600 font-sans text-white rounded-3xl">follow me</button></a>
+      <a href="https://www.instagram.com/minam_78pak/"><button className="bg-pink-600 font-serif text-black text-xl rounded-3xl">follow me</button></a>
         </div>
     </div>
      </div>
