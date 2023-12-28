@@ -22,12 +22,12 @@ export default function Home() {
         height={700} // Set the desired height
       />
      </div>
-    <div className=" flex justify-center font-sans text-md border border-red-400">
+    <div className=" flex justify-center">
       <div>
-      <a href="https://www.youtube.com/@minam2.0/">subscribe me</a>
+      <a href="https://www.youtube.com/@minam2.0/"><button className=" bg-red-600  font-sans text-white rounded-3xl">subscribe me</a></button>
         </div>
       <div>
-      <a href="https://www.instagram.com/minam_78pak/">follow me</a>
+      <a href="https://www.instagram.com/minam_78pak/"><button className="bg-pink-600 font-sans text-white rounded-3xl">follow me</button></a>
         </div>
     </div>
      </div>
