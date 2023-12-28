@@ -1,7 +1,7 @@
 // components/ExternalLinkButton.js
 const ExternalLinkButton = () => {
-    const externalLink = 'https://www.instagram.com/minam_78pak/';
-    const externalLink1 = 'https://www.youtube.com/@minam2.0';
+    let externalLink = 'https://www.instagram.com/minam_78pak/';
+    let externalLink1 = 'https://www.youtube.com/@minam2.0';
   
     return (
         <div>
