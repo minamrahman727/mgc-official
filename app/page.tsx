@@ -1,6 +1,6 @@
 import next from "next"
 import Image from 'next/image'
-import ExternalLinkButton from '../components/ExternalLinkButton';
+
 
 export default function Home() {
   return (
