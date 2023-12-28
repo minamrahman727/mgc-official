@@ -9,10 +9,10 @@ export default function Home() {
         alt="Description of your image"
         width={200} // Set the desired width
         height={200} // Set the desired height
-      /> <h1 className=" font-serif text-4xl text-red-600 bg-gray-400 rounded-xl">Minam Group of Companies</h1>
+      /> <h1 className=" font-serif text-4xl text-blue-600 bg-gray-200 border border-blue-300 rounded-xl">Minam Group of Companies</h1>
     </div>
      <div>
-     <h1 className="font-mono text-xl text-blue-600">site under construction</h1></div>
+     <h1 className="font-mono text-xl text-red-600">site under construction</h1></div>
      </div>
   )
 }
