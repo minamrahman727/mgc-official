@@ -21,10 +21,10 @@ export default function Home() {
       />
      </div>
      <div><a href={www.youtube.com/@minam2.0} target="_blank" rel="noopener noreferrer">
-        <button>subscribe to my channel</button>
+        subscribe to my channel
       </a>
     <div><a href={www.instagram.com/minam_78pak/} target="_blank" rel="noopener noreferrer">
-        <button>follow on instagram</button>
+        follow on instagram
       </a>
    
    </div>
